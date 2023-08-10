@@ -43,3 +43,5 @@ Em pontos-chave do processo de cadastro, são fornecidas dicas e informações c
 
 Considerações Finais
 A aplicação de cadastro de usuário foi desenvolvida com foco na experiência do usuário, garantindo uma interface amigável, interações intuitivas, responsividade e usabilidade otimizada. Espero que esta aplicação facilite o processo de registro para os usuários e contribua para uma experiência positiva na plataforma.
+
+https://www.figma.com/file/bcHxcBD5Mp3seldmzFYHRb/Cadastro-de-Usu%C3%A1rios?type=design&node-id=68%3A2&mode=design&t=ajgUs3FBBlKZjNp2-1
